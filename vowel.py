@@ -3,7 +3,6 @@
 # @brief        :Write the program to print vowels and consonant letter
 #               from 'gnulinux'
 #@author        :vignesh(vignesh.nanjundan@vvdntech.in)
-#@copyright     :vvdn technology,chennai.
 
 """
 
