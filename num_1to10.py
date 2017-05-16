@@ -2,7 +2,6 @@
 @file       :num_1to10.py
 @brief      :Print the number from 1 to 10 using while loop.
 @author     :vignesh(vignesh.nanjundan@vvdntech.in)
-@copyright  :vvdn technology,chennai.
 
 """
 number = 1
