@@ -3,7 +3,6 @@
 @brief      : Write a program for simple arithmetic operations like
                add,subtract, multiplication, division.
 @author     :vignesh(vignesh.nanjundan@vvdntech.in)
-@copyright  :vvdn technology,chennai.
 
 """
 number1 = (int)(input("Enter the first Number...\n"))
